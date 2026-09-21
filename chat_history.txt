@@ -1,0 +1,16 @@
+
+--- New Chat Session: 2026-09-19 20:55:28.197077 ---
+You: hello
+Bot: Hello there! How can I help you today?
+Bot: Goodbye!
+
+--- New Chat Session: 2026-09-19 20:57:00.873080 ---
+You: hello
+Bot: Hello there! How can I help you today?
+You: how are you
+Bot: I'm doing great! Are you curious about who made me?
+You: who made you
+Bot: I was created by an awesome developer (you!) learning how to build AI chatbots.
+You: who is the prime minister of india
+Bot: I heard you say that, but I don't understand that yet.
+Bot: Goodbye!
